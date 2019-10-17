@@ -4,9 +4,9 @@ Tan Cheng Yi 253814
 
 #### ```Introduction```
 Develop a small system using MAVEN and Java programming language. The system should be able to:
-1. Read data from a Github Issue page. Refer to the link below for the testing purpose.
+1. Read data from a Github Issue page. Refer to the link below for the testing purpose.  
    https://github.com/STIW3054-A191/Main-Issues/issues/1
-2. Read data from a Github Wiki page. Refer to the link below for the testing purpose.
+2. Read data from a Github Wiki page. Refer to the link below for the testing purpose.  
    https://github.com/STIW3054-A191/Assignments/wiki/List_of_Student
 3. Compare the data and produce the following reports:
    * List all students who have submitted the GitHub account.
