@@ -23,7 +23,7 @@ public class toExcel extends Thread{
     public void run() {
         XSSFWorkbook workbook = new XSSFWorkbook();
         XSSFSheet sheet = workbook.createSheet("Submit");
-        XSSFSheet sheet1 = workbook.createSheet("NoSubmit");
+        XSSFSheet sheet1 = workbook.createSheet("NotSubmit");
         XSSFSheet sheet2 = workbook.createSheet("Unknown");
 
         //write to first sheet

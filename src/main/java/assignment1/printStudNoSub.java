@@ -10,7 +10,7 @@ public class printStudNoSub extends Thread{
 
     @Override
     public void run() {
-        System.out.println(" Students who have submitted the GitHub account.");
+        System.out.println(" Students who have not submitted the GitHub account.");
         System.out.println("| No. | Matric | Name                                  |");
         System.out.println("|-----|--------|---------------------------------------|");
         for(int i=0;i<studNoSub.length;i++){
